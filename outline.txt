@@ -1,0 +1,72 @@
+Course Fee:
+
+Rs.11800/- (Inclusive of GST)
+Number of students per batch:
+
+Minimum 3, Maximum 10
+Duration:
+
+18 Hours
+Prerequisites:
+
+Basics of HTML
+Basics of JavaScript
+Basic understanding of CSS properties
+Software setup:
+
+Node.js (latest LTS version)
+Microsoft Visual Studio Code
+Google Chrome
+Access to internet
+Topics covered:
+
+Introduction
+Why use Angular 5?
+What you should know before watching this course
+Basics of TypeScript
+Architecture Overview
+Module, Component, Directive, Service and Pipe
+Data binding
+Dependency injection
+Routing
+Components
+Component metadata
+Selector
+Template
+Styles
+Using other components in a component
+Interpolation and the expression context
+Property binding
+Event binding
+Getting data to the component with input
+Directives and Pipes
+Structural directives—ngIf
+Structural directives—ngFor
+Attribute directives—built in
+Attribute directives—custom
+Working with events in directives
+Angular pipes—built in
+Angular pipes—custom
+Forms
+Angular forms
+Template-driven forms
+Model-driven forms
+Validation—built in
+Validation—custom
+Error handling
+Dependency Injection and Services
+Services in Angular
+Constructor injection
+Building a service
+Provider registration at Bootstrap
+@Injectable decorator
+HTTP
+The Angular HTTP bundle
+Using HTTP for GET, POST, PUT, and DELETE calls
+Routing -
+The Angular routing bundle
+Route configuration
+Router outlets
+Router links
+Using the router class to navigate
+Conclusion
